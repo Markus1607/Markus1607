@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me
+I'm Mark Sarpong, frontend web engineer based in Oxford
 
 - 🔭 I’m currently working on Medical Software 
 - 🌱 I’m currently learning typescript
